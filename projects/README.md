@@ -1,7 +1,6 @@
 # 👩🏽‍💻 Aqui terá atualizações sobre os projetos criados
 # Base Project: Gerenciando Instâncias EC2 na AWS
-#
-## Fiz um diagrama para ilustrar uma arquitetura de sistema hospedado na AWS, projetada para suportar uma aplicação com acesso por funcionários:
+Fiz um diagrama para ilustrar uma arquitetura de sistema hospedado na AWS, projetada para suportar uma aplicação com acesso por funcionários:
 1. Funcionários: Representam os usuários finais que acessam o sistema por meio de dispositivos como computadores.
 2. Nuvem AWS: A infraestrutura principal é alocada na nuvem, acessada via uma conexão ou interface.
 3. EC2: Uma instância EC2 atua como a camada de aplicação inicial, responsável por processar as requisições dos usuários.
