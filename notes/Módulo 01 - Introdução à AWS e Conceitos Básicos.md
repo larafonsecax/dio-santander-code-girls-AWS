@@ -49,7 +49,39 @@
    - Suporta sistemas de grande porte, como Amazon.com, Netflix e sistemas bancários.
 - Robustez:
    - Infraestrutura capaz de atender alta demanda com confiabilidade.
+     
+## Práticas de Segurança
+- Recomendações:
+1. Criar conta root e protegê-la.
+2. Não compartilhar credenciais.
+3. Monitorar e-mails de cobrança.
+4. Usar autenticação multifator (MFA).
+5. Estabelecer barreiras de proteção para permissões.
 
+## IAM (Identity and Access Management)
+- Função: Gerencia usuários, grupos e permissões na plataforma AWS.
+- Importância: Estrutura central para provisionamento de acessos.
+- Políticas e permissões: Configurações detalhadas para controle de acesso.
+
+## Formas de Acesso à Plataforma AWS
+- AWS Console:
+  - Interface gráfica amigável para gerenciar serviços, contas e perfis.
+- AWS CLI (Command Line Interface):
+  - Ferramenta de linha de comando para interagir com a AWS via terminal, utilizando credenciais.
+- Cloud Shell:
+  - Ambiente de linha de comando baseado em Python, pré-configurado, para criar recursos diretamente na plataforma.
+
+## Controle de Gastos e Alertas
+  - Ferramentas disponíveis para monitoramento e configuração de alertas de custos, garantindo controle financeiro.
+
+## Aplicações Práticas da AWS
+- Casos de uso:
+  1. Aumentar recursos de TI usando a nuvem.
+  2. Migrar aplicativos e dados existentes para a nuvem.
+  3. Construir novos aplicativos, sites, serviços e linhas de negócios.
+
+## Inovação e Adaptabilidade
+- A AWS se destaca pela inovação constante e adaptação às necessidades de empresas de todos os tamanhos e setores.
 
 		
 
