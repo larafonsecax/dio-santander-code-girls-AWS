@@ -1,7 +1,7 @@
 # Base Project: Gerenciando Instâncias EC2 na AWS
 Este projeto apresenta um diagrama de infraestrutura na AWS criado no draw.io
 # 📊 Diagrama 
-<img width="400" height="200" alt="desafio02 drawio" src="https://github.com/user-attachments/assets/049a2452-9ea9-4092-816c-34e483d8c84b" />
+<img width="200" height="400" alt="desafio02 drawio" src="https://github.com/user-attachments/assets/049a2452-9ea9-4092-816c-34e483d8c84b" />
 
 # Explicação do Diagrama
 Fiz um diagrama para ilustrar uma arquitetura de sistema hospedado na AWS, projetada para suportar uma aplicação com acesso por funcionários.
