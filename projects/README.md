@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Aqui terá atualizações sobre os projetos criados
+<img width="741" height="971" alt="desafio02 drawio" src="https://github.com/user-attachments/assets/049a2452-9ea9-4092-816c-34e483d8c84b" />
 # Base Project: Gerenciando Instâncias EC2 na AWS
 Fiz um diagrama para ilustrar uma arquitetura de sistema hospedado na AWS, projetada para suportar uma aplicação com acesso por funcionários:
 1. Funcionários: Representam os usuários finais que acessam o sistema por meio de dispositivos como computadores.
@@ -8,8 +8,5 @@ Fiz um diagrama para ilustrar uma arquitetura de sistema hospedado na AWS, proje
 5. RDS: O RDS gerencia um banco de dados relacional, armazenando dados estruturados essenciais para a aplicação.
 6. Backup de Fronteira e S3: Os dados da aplicação de fronteira são respaldados no Amazon S3, um serviço de armazenamento de objetos escalável e durável.
 7. IAM Role: As políticas de controle de acesso (IAM Roles) definem as permissões e o nível de acesso para os serviços EC2, RDS e S3, assegurando a segurança e a segregação de responsabilidades.
-
-
-
 
 
