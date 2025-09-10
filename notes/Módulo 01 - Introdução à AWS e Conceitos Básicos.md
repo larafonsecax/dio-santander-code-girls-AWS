@@ -37,6 +37,20 @@
 | Híbrida | Flexibilidade, escalabilidade, segurança | Requer integração mais complexa |
 | Privada | Controle total,  maior segurança	| Alto investimento e custo contínuo |
 
+## 🖥️ Modelos de Serviços em Nuvem
+| Modelo | Nome | Exemplos de uso | Palavra-chave | 
+|----------|----------|----------|----------|
+| SaaS | Software as a Service | E-mail, CRM, ERP | USE |
+| PaaS | Platform as a Service | Desenvolvimento de apps, streaming, web, suporte a decisões | CONSTRUA |
+| IaaS | Infrastructure as a Service | Sistemas legados, servidores de arquivos, segurança, cache| MIGRE |
+
+## Serviços Gerenciados
+- Alta escalabilidade:
+   - Suporta sistemas de grande porte, como Amazon.com, Netflix e sistemas bancários.
+- Robustez:
+   - Infraestrutura capaz de atender alta demanda com confiabilidade.
+
+
 		
 
   
