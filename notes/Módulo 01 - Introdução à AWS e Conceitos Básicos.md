@@ -76,9 +76,9 @@
 
 ## Aplicações Práticas da AWS
 - Casos de uso:
-  1. Aumentar recursos de TI usando a nuvem.
-  2. Migrar aplicativos e dados existentes para a nuvem.
-  3. Construir novos aplicativos, sites, serviços e linhas de negócios.
+1. Aumentar recursos de TI usando a nuvem.
+2. Migrar aplicativos e dados existentes para a nuvem.
+3. Construir novos aplicativos, sites, serviços e linhas de negócios.
 
 ## Inovação e Adaptabilidade
 - A AWS se destaca pela inovação constante e adaptação às necessidades de empresas de todos os tamanhos e setores.
